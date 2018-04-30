@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+An engineer at heart with a decade plus of experience working in effective teams. I love figuring out what makes successful teams tick.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+rupinderdhariwal at gmail.com (sorry spam bots, but not today)
