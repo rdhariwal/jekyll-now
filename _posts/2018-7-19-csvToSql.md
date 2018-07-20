@@ -2,8 +2,7 @@
 layout: post
 title: how to query your csv files using sqlite
 ---
-
-### [Clone my repo for files] (https://github.com/rdhariwal/csvTosqlQ)
+[Clone my repo for csv files](https://github.com/rdhariwal/csvTosqlQ)
 
 # query your csv files like sql
 
