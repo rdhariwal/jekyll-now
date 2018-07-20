@@ -7,4 +7,4 @@ permalink: /about/
 An engineer at heart with a decade plus of experience working in effective teams. I love figuring out what makes successful teams tick.
 
 ### Contact me
-rupinderdhariwal at gmail (sorry spam bots, but not today)
+rupinderdhariwal at gmail
