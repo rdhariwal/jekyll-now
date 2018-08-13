@@ -9,9 +9,9 @@ title: How to query your csv files using sqlite
     * for mac: `brew install sqlite3`
 
 start sqllite3 shell by running
-```
+`
 sqlite3
-```
+`
     
 use the `.mode` command as follows to set it to csv:
 
