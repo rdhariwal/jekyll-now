@@ -17,14 +17,14 @@ avatar: https://raw.githubusercontent.com/rdhariwal/rdhariwal.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
   github: rdhariwal
   instagram:
-  linkedin:
+  linkedin: rupinderdhariwal
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss# just type anything here for a working RSS icon
   twitter: rdvshtml
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
